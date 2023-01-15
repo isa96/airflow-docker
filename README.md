@@ -2,7 +2,7 @@
 
 ##### Clone this repository and enter the directory
 ```bash
-git clone https://github.com/yevadrian/airflow-gcloud-docker && cd airflow-gcloud-docker
+git clone https://github.com/isa96/airflow-docker.git && cd airflow-gcloud-docker
 ```
 
 ##### Modify the DAG according to your needs
